@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Welcome to my github profile! My name is Sam Voisin. I am a data science, machine learning and software design professional. I have extensive experience in natural language processing (NLP), computer vision (CV), time series analysis and Bayesian model techniques.
+Welcome to my github profile! My name is Sam Voisin. I am a data science, machine learning and software design professional. I have extensive experience in natural language processing (NLP), computer vision (CV), time series analysis and Bayesian methods.
 
 🦾 I am passionate about intuitive, gesture-based control systems. I am currently developing [GestuReMote](https://github.com/samvoisin/gesture-control), a python library which provides an interface for controlling your desktop/laptop with physical gestures.
 
