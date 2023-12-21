@@ -6,6 +6,6 @@ Welcome to my github profile! My name is Sam Voisin. I am a data science, machin
 
 🧙‍♂️ Another project I am working on is [AIDM](https://github.com/samvoisin/ai-dungeon-master), an LLM-powered chatbot that can act as a virtual "Game Master" for tabletop role-playing games. AIDM utilizes a combination of prompt engineering and software engineering features to ensure LLM produces appropriate text.
 
-⛵️ I currently work as a Senior Data Scientist at Tradewind Data Science where I build value for clients by developing inferrential and predictive models.
+⛵️ I currently work as a Senior Data Scientist at Tradewind Data Science where I build value for clients by developing inferrential and predictive models to guide strategy and policy decisions.
 
 🛜 Take a look at my [personal website](www.samvoisin.com) to learn more about me, read my blog posts or see my resume!
