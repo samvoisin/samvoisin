@@ -1,4 +1,4 @@
-[](ghbi.png)
+![image](ghbi.png)
 
 ### Hi there 👋
 
