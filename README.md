@@ -10,4 +10,4 @@ Welcome to my github profile! My name is Sam Voisin. I am a data science, machin
 
 ⛵️ I currently work as a Senior Data Scientist at Tradewind Data Science where I build value for clients by developing inferrential and predictive models to guide strategy and policy decisions.
 
-🛜 Take a look at my [personal website](www.samvoisin.com) to learn more about me, read my blog posts or see my resume!
+🛜 Take a look at my [personal website](www.samvoisin.com) to learn more about me, read my blog posts or see my resume.
